@@ -1,1 +1,3 @@
-ELEVENLABS_API_KEY = "sk_ed5194e19b319c6dee9a658c6cb4b93966ce59251b01974a"
+ELEVENLABS_API_KEY = "api_key"
+
+"Here this api_key is based on elevenlab website"
